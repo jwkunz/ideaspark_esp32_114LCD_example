@@ -10,6 +10,6 @@ This respository contains:
 4. documentation taken from the vendor's page
     * https://www.amazon.com/dp/B0D7S7YQMC
 # Getting Started #
-To run the code, open the "arduino_main" folder in the Arduino IDE and follow photo instructions in the "docs" folder.
+To run the code, open the "minimal_graphics_example.ino" folder in the Arduino IDE and follow photo instructions in the "docs" folder.
 # License #
 Respect the original license terms provided by the vendor, manufacturer, and for the Adafruit graphics libraries.
