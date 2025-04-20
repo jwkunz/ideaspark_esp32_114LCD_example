@@ -20,6 +20,10 @@ Respect the original license terms provided by the vendor, manufacturer, and for
 - Operating System: Linux
 - CPU Manufacturer: Espressif
 - Wireless Communication Standard: 802.11bgn
+- Compatible Devices: 	Various IoT devices
+- RAM Memory Technology: 	LPDDR4
+- Processor Count:	2
+- Total Usb Ports: 1
 
 The ESP32 1.9'' LCD board has all the features of the traditional ESP32 Devkit V1 module,with the same exact peripheral ports,offers seamless integration with a 1.14-inch LCD display, eliminating the need for frustrating wires and breadboards.Display features a high-resolution 135x240 full color with ST7789 driver and is compatible with I2C interfaces. Plus,It uses Type-c usb cable to connect. Say goodbye to messy setups and hello to hassle-free electronics with the ESP32 board.
 
