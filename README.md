@@ -36,4 +36,5 @@ This board is an outstanding option for various Internet of Things (IoT) project
 
 # External
 - [Devkit V1 Documentation](https://www.circuitstate.com/pinouts/doit-esp32-devkit-v1-wifi-development-board-pinout-diagram-and-reference/)
-- [Processor Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf)
+- [ESP32-WROOM-32 Module Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf)
+- [ESP32 Technical  Reference](https://www.espressif.com/documentation/esp32_technical_reference_manual_en.pdf)
