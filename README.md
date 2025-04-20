@@ -33,3 +33,6 @@ Board uses SPI to connect LCD: D23/GPIO23->MOSI, D18/GPIO18->SCLK, D15/GPIO15->C
 To install the new version driver for CH340,simply search for the keywords "CH340 Driver" on Google.com or Bing.com and follow the installation instructions provided.Recommended for Win10 Operating System
 
 This board is an outstanding option for various Internet of Things (IoT) projects. It can be used to display network connection status,monitor information, power levels, and other relevant data. Additionally, it's suitable for building Internet Weather Stations, Graphic Plotter, Data Monitor, and Other similar applications
+
+# External
+[devkit v1 documentation](https://www.circuitstate.com/pinouts/doit-esp32-devkit-v1-wifi-development-board-pinout-diagram-and-reference/)
