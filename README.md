@@ -35,4 +35,5 @@ To install the new version driver for CH340,simply search for the keywords "CH34
 This board is an outstanding option for various Internet of Things (IoT) projects. It can be used to display network connection status,monitor information, power levels, and other relevant data. Additionally, it's suitable for building Internet Weather Stations, Graphic Plotter, Data Monitor, and Other similar applications
 
 # External
-[devkit v1 documentation](https://www.circuitstate.com/pinouts/doit-esp32-devkit-v1-wifi-development-board-pinout-diagram-and-reference/)
+[Devkit V1 Documentation](https://www.circuitstate.com/pinouts/doit-esp32-devkit-v1-wifi-development-board-pinout-diagram-and-reference/)
+[Processor Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32e_esp32-wroom-32ue_datasheet_en.pdf)
